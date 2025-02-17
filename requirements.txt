@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
+youtube_transcript_api
+pathlib
+crewai
+langchain_google_genai ##Google gemini models
+crewai_tools
